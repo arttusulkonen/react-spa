@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1040ec00-8342-4aa5-8307-383ee5a2fda0" name="Default Changelist" comment="Add Link to Header component">
-      <change afterPath="$PROJECT_DIR$/src/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/category-item/CategoryItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/category-item/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/category-list/CategoryList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/category-list/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+    <list default="true" id="1040ec00-8342-4aa5-8307-383ee5a2fda0" name="Default Changelist" comment="Create starting page with categories of food">
+      <change afterPath="$PROJECT_DIR$/src/components/meal/Meal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/meal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/meals/Meals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/meals/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Category.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/category-item/CategoryItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/category-item/CategoryItem.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +78,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618396504841</updated>
-      <workItem from="1618396505985" duration="8002000" />
+      <workItem from="1618396505985" duration="8063000" />
+      <workItem from="1618471464942" duration="1020000" />
     </task>
     <task id="LOCAL-00001" summary="Create new project">
       <created>1618396646109</created>
@@ -104,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618407165168</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create starting page with categories of food">
+      <created>1618418773808</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618418773808</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,11 +125,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create new project" />
     <MESSAGE value="Create base page&#10;Add Header, main, home, Footer pages&#10;Add Router" />
     <MESSAGE value="Add Link to Header component" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Link to Header component" />
+    <MESSAGE value="Create starting page with categories of food" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create starting page with categories of food" />
   </component>
 </project>
