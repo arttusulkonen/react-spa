@@ -27,3 +27,16 @@ nav {
 .card-content{
   flex-grow: 1
 }
+h1{
+  text-align: center
+}
+
+img {
+  max-width: 100%;
+}
+.recipe-image{
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+

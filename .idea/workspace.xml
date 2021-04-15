@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1040ec00-8342-4aa5-8307-383ee5a2fda0" name="Default Changelist" comment="Create starting page with categories of food">
-      <change afterPath="$PROJECT_DIR$/src/components/meal/Meal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/meal/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/meals/Meals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/meals/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Category.js" afterDir="false" />
+    <list default="true" id="1040ec00-8342-4aa5-8307-383ee5a2fda0" name="Default Changelist" comment="Create a page with a list of dishes">
+      <change afterPath="$PROJECT_DIR$/src/components/recipes/Recipes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/recipes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/GetRecipe.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/category-item/CategoryItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/category-item/CategoryItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/category-list/CategoryList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/category-list/CategoryList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/About.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Category.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Category.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +49,7 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -79,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618396504841</updated>
       <workItem from="1618396505985" duration="8063000" />
-      <workItem from="1618471464942" duration="1020000" />
+      <workItem from="1618471464942" duration="9582000" />
     </task>
     <task id="LOCAL-00001" summary="Create new project">
       <created>1618396646109</created>
@@ -109,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618418773808</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Create a page with a list of dishes">
+      <created>1618472727634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618472727634</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +144,7 @@
     <MESSAGE value="Create base page&#10;Add Header, main, home, Footer pages&#10;Add Router" />
     <MESSAGE value="Add Link to Header component" />
     <MESSAGE value="Create starting page with categories of food" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create starting page with categories of food" />
+    <MESSAGE value="Create a page with a list of dishes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a page with a list of dishes" />
   </component>
 </project>
