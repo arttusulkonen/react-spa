@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1040ec00-8342-4aa5-8307-383ee5a2fda0" name="Default Changelist" comment="Add recipe page">
-      <change afterPath="$PROJECT_DIR$/src/components/search/Search.js" afterDir="false" />
+    <list default="true" id="1040ec00-8342-4aa5-8307-383ee5a2fda0" name="Default Changelist" comment="Add search input">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
     </list>
@@ -31,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/node_modules/babel-eslint/package.json" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/node_modules/babel-eslint/package.json&#10;/Users/arttusulkonen/Study/front-end courses/React/react-spa/build/index.html" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -55,6 +54,16 @@
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -65,6 +74,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -78,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1618396504841</updated>
       <workItem from="1618396505985" duration="8063000" />
-      <workItem from="1618471464942" duration="12567000" />
+      <workItem from="1618471464942" duration="12909000" />
     </task>
     <task id="LOCAL-00001" summary="Create new project">
       <created>1618396646109</created>
@@ -122,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618483139666</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add search input">
+      <created>1618502229571</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618502229571</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +168,7 @@
     <MESSAGE value="Create starting page with categories of food" />
     <MESSAGE value="Create a page with a list of dishes" />
     <MESSAGE value="Add recipe page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add recipe page" />
+    <MESSAGE value="Add search input" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add search input" />
   </component>
 </project>
